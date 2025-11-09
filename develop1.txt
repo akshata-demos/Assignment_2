@@ -1,0 +1,2 @@
+The git stash command in Git is used to temporarily save changes in your working directory and index
+(staged changes) that are not yet ready to be committed.
