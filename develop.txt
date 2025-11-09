@@ -1,0 +1,5 @@
+The git stash command in Git is used to temporarily save changes in your working directory and index
+(staged changes) that are not yet ready to be committed. This allows you to revert your working directory
+to a clean state,
+typically matching the HEAD commit, so you can switch branches, work on a different task, or pull updates
+without committing incomplete work.
