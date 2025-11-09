@@ -1,0 +1,14 @@
+1) git status
+2) git add .
+3) git commit -m "added 3 text files"
+4) git remote add origin "github url"
+5) git push
+
+For creating feature branch- 1) git checkout -b feature-1
+			     2) git pull
+Make changes into 1 file -   3) git status
+                             4) git add Code.txt
+                             5) git commit -m "changed Code.txt file"
+                             6) git push
+			 
+
