@@ -1,0 +1,3 @@
+When a new, untracked file is present in your working directory and you execute git stash, that file is not stashed by default. git stash only stashes changes to files that are already tracked by Git.
+Therefore, after a git stash command, any newly created, untracked files will still be present in your working directory and will appear in git status as untracked files.
+If you wish to remove these untracked files after stashing, you would need to use git clean.
